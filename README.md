@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # iiot-technologies
 >>>>>>> 0546c71e7597310f440dc0e79fc5aadd34b76c0a
+=======
+# iiot-technologies
+
+This is the IIOT Technologies project by Tejaswi Shete.
+>>>>>>> 01219d4bb91d7eae719bf62d75d9d386ac1efe02
